@@ -1,10 +1,10 @@
 🌿 SOIL HEALTH MONITORING SYSTEM
  
- 📌 Problem Statement
+ 📌 Problem Statement :
 Farmers often lack real-time information about soil conditions, 
 which can lead to poor crop health and reduced yield.
 
- 💡 Solution
+ 💡 Solution :
 This project is an IoT-based Soil Health Monitoring System that continuously
 tracks soil parameters like moisture, temperature, and gas levels,
 helping in early detection of plant health issues.
